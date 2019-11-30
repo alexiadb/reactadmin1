@@ -14,8 +14,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(240, 204, 150);
-}
+  color:pink ;
 
 .App-link {
   color: #09d3ac;

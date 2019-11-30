@@ -5,7 +5,7 @@ import CardHeader from '@material-ui/core/CardHeader';
 
 export default () => (
     <Card>
-        <CardHeader title="Welcome to the administration" />
-        <CardContent>Lorem ipsum sic dolor amet...</CardContent>
+        <CardHeader title="Bienvenue sur la Base de Données Clients NFC " />
+        <CardContent>Lorem ipsum sic dolor amet.Lorem ipsum sic dolor amet.Lorem ipsum sic dolor amet.</CardContent>
     </Card>
 );
