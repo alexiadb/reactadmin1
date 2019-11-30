@@ -12,8 +12,6 @@ const useStyles = makeStyles({
     },
 });
 
-
-
 const MyUrlField = ({ record = {}, source }) => {
     const classes = useStyles();
     return (
